@@ -1,0 +1,6 @@
+C:\Jenkins_Ankush\PipelineOutput\Chinook.JenkinsDemo.dacpac
+C:\Jenkins_Ankush\PipelineOutput\Chinook.JenkinsDemo.dll
+C:\Jenkins_Ankush\PipelineOutput\Chinook.JenkinsDemo.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\Gitcheckout-SQL\Chinook.JenkinsDemo\obj\Release\Chinook.JenkinsDemo.sqlproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\Gitcheckout-SQL\Chinook.JenkinsDemo\obj\Release\Chinook.JenkinsDemo.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\Gitcheckout-SQL\Chinook.JenkinsDemo\obj\Release\Chinook.JenkinsDemo.pdb
